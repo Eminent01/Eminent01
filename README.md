@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Udacity Data Analyst project
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on Projects related to Machine Learning (AI)
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with 
 - 💬 Ask me about Machine Learning, Data Analytics
 - 📫 How to reach me: linkedin.com/in/abiodun-ademola ; saheed.ademola313@gmail.com
 
