@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Vishal Maurya!
+Hi, I'm Ademola Abiodun Saheed!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
@@ -14,17 +14,18 @@ Hi, I'm Vishal Maurya!
 <hr>
 
 ```
-I-am-vishalmaurya@github
+I-am-Eminent01@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+💻 I am currently a Machine Learning student. 
+📚 I have Masters in Mathematical Sciences at African Institute for Mathematical Sciences, Cameroon.
+📚 I have a Bachelors in Statistics at the University of Ilorin, Nigeria.
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+🌱 Learning about Computer Vision, Natural Language Processing, Reinforcement Learning and Machine Learning stuff
+🌟 Main languages: Python and R
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🎵 Love hiphop, jazz and soft music
 ```
 <hr>
 
@@ -132,8 +133,8 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 </table>
 
 ------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
+Credits: [Eminent01]([https://github.com/I-am-vishalmaurya](https://github.com/Eminent01))
+Last Edited On: 20/07/2022
 
 
 
