@@ -14,7 +14,7 @@ Hi, I'm Ademola Abiodun Saheed!
 <hr>
 
 ```
-I-am-Eminent01@github
+Eminent01@github
 -------------------------
 💻 I am currently a Machine Learning student. 
 📚 I have Masters in Mathematical Sciences at African Institute for Mathematical Sciences, Cameroon.
