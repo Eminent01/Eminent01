@@ -24,8 +24,6 @@ Eminent01@github
 🌱 Learning about Computer Vision, Natural Language Processing, Reinforcement Learning and Machine Learning stuff
 🌟 Main languages: Python and R
 🚩 Interested in Full Stack Machine Learning Application development
-🚩 Interested in Full Stack web develop
-🚩 Interested in software engineering
 💖 In a complicated relationship with Neural Networks
 🎵 Love hiphop, jazz and soft music
 ```
